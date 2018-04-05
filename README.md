@@ -3,6 +3,9 @@ My version of AwesomeAndroid - a set of useful links, libraries, posts, etc.
 
 # Posts
 
+## Firebase Functions
+[FCM via Firebase Functions](http://firebase.apptractor.ru/otpravka-fcm-push-pri-pomoshhi-cloud-functions-v-firebase/) - Send FCM Push via Cloud Functions of Firebase + [sample](https://github.com/firebase/functions-samples/blob/master/fcm-notifications/functions/index.js)
+
 # Security
 [Broken Fingers: On the Usage of the Fingerprint API in Android](http://www.s3.eurecom.fr/~yanick/publications/2018_ndss_fingerprint.pdf)
 
