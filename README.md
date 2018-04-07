@@ -34,3 +34,4 @@ My version of AwesomeAndroid - a set of useful links, libraries, posts, etc.
 
 ## UI
 [TableView](https://github.com/evrencoskun/TableView) - TableView is a powerful Android library for displaying complex data structures and rendering tabular data composed of rows, columns and cells.
+[CustomTabs](https://developer.chrome.com/multidevice/android/customtabs) - Improve user experience of browser redirects with Google Custom tabs
