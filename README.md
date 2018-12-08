@@ -44,3 +44,6 @@ My version of AwesomeAndroid - a set of useful links, libraries, posts, etc.
 [CustomTabs](https://developer.chrome.com/multidevice/android/customtabs) - Improve user experience of browser redirects with Google Custom tabs
 
 [CookieBar2](https://github.com/AviranAbady/CookieBar2) pretty toast-like widgets
+
+[InboxRecyclerView](https://github.com/saket/InboxRecyclerView) Build expandable descendant navigation, inspired by Google Inbox
+
