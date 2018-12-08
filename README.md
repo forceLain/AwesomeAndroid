@@ -31,6 +31,8 @@ My version of AwesomeAndroid - a set of useful links, libraries, posts, etc.
 ## Finferprints
 [Android-Goldfinger](https://github.com/infinum/Android-Goldfinger) - Android library to simplify Fingerprint authentication implementation
 
+[FingerprintIdentify](https://github.com/uccmawei/FingerprintIdentify)
+
 ## System
 [g-lazy-module-loader](https://github.com/Instagram/ig-lazy-module-loader) - Library that implements module lazy loading.
 
