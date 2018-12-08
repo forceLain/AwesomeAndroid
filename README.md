@@ -1,4 +1,4 @@
-# AwesomeAdnroid
+# AwesomeAndroid
 My version of AwesomeAndroid - a set of useful links, libraries, posts, etc.
 
 # Posts
@@ -16,7 +16,7 @@ My version of AwesomeAndroid - a set of useful links, libraries, posts, etc.
 
 ## Security
 [QARK](https://github.com/linkedin/qark) - a powerful pentesting tool
-
+ 
 ## Build
 [Jar Jar](https://github.com/shevek/jarjar) - Jar Jar Links is a utility that makes it easy to repackage Java libraries and embed them into your own distribution.
 
@@ -24,6 +24,8 @@ My version of AwesomeAndroid - a set of useful links, libraries, posts, etc.
 
 ## Security
 [Cipher.so](https://github.com/MEiDIK/Cipher.so) - A simple way to encrypt your secure data like passwords into a native .so library
+
+[Tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 
 ## Multimedia
 [Videoapparat](https://github.com/Fotoapparat/Videoapparat) - The best and only Android library to take pictures and videos
