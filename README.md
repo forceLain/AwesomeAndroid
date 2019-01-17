@@ -47,3 +47,6 @@ My version of AwesomeAndroid - a set of useful links, libraries, posts, etc.
 
 [InboxRecyclerView](https://github.com/saket/InboxRecyclerView) Build expandable descendant navigation, inspired by Google Inbox
 
+# ETC
+
+[Plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design
