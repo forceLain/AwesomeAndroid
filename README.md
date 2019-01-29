@@ -12,6 +12,9 @@ My version of AwesomeAndroid - a set of useful links, libraries, posts, etc.
 ## Security
 [Broken Fingers: On the Usage of the Fingerprint API in Android](http://www.s3.eurecom.fr/~yanick/publications/2018_ndss_fingerprint.pdf)
 
+## UI
+[Setting up a Material Components theme for Android](https://medium.com/over-engineering/setting-up-a-material-components-theme-for-android-fbf7774da739)
+
 # Tools
 
 ## Security
